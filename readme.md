@@ -33,6 +33,7 @@ Designed specifically for microscopy studies on *Chlamydomonas* algae to quantif
 ```bash 
 pip install opencv-python opencv-python-headless numpy pandas openpyxl matplotlib PyQt5 imageio scikit-image scipy scikit-learn xlsxwriter
 ```
+Also you can use the file requirements.txt to install all dependencies.
 
 - **Recommended IDE:** PyCharm (or any Python IDE supporting GUI execution).
 
