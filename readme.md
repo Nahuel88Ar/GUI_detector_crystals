@@ -30,8 +30,8 @@ Designed specifically for microscopy studies on *Chlamydomonas* algae to quantif
 - Python 3.x
 - Install dependencies:
 
-```bash
-pip install numpy pandas matplotlib openpyxl xlsxwriter scipy opencv-python-headless scikit-image PyQt5 scikit-learn
+```bash 
+pip install opencv-python opencv-python-headless numpy pandas openpyxl matplotlib PyQt5 imageio scikit-image scipy scikit-learn xlsxwriter
 ```
 
 - **Recommended IDE:** PyCharm (or any Python IDE supporting GUI execution).
@@ -50,7 +50,7 @@ cd your-repo-name
 ### 2️⃣ Run the GUI
 
 ```bash
-python GUI_FINAL_V7.py
+python GUI_FINAL_CLEAN.py
 ```
 
 Or open the file in PyCharm and run it.
@@ -164,5 +164,5 @@ This tool was designed to support *Chlamydomonas* algae research, enabling accur
 
 ## 📬 Contact
 
-For questions or contributions, please open an issue or contact [[your-email@example.com](mailto\:your-email@example.com)].
+For questions or contributions, please open an issue or contact [[your-email@example.com](mailto\:nahuelutn88@gmail.com)].
 
