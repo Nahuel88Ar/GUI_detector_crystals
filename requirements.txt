@@ -1,0 +1,15 @@
+opencv-python
+numpy
+pandas
+openpyxl
+matplotlib
+PyQt5
+imageio
+scikit-image
+scipy
+scikit-learn
+XlsxWriter
+
+
+
+
