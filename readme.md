@@ -181,5 +181,5 @@ This tool was designed to support *Chlamydomonas* algae research, enabling accur
 
 ## 📬 Contact
 
-For questions or contributions, please open an issue or contact [[your-email@example.com](mailto\:nahuelutn88@gmail.com)].
+For questions or contributions, please open an issue or contact [mail to\:nahuelutn88@gmail.com].
 
